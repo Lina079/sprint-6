@@ -25,4 +25,4 @@ Project Sprint 5 no solo es un testimonio de mis habilidades técnicas y conocim
 
 Sitio web del proyecto:
 
-A través del siguiente enlace podrás acceder al proyecto: https://lina079.github.io/web_project_homeland/
+A través del siguiente enlace podrás acceder al proyecto: https://lina079.github.io/sprint-6/
