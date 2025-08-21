@@ -1,28 +1,58 @@
-# Tripleten web_project_homeland
+# 🌍 Cultural Stories – Historias Culturales (HTML & CSS)
 
-Nombre del proyecto:
+## 📖 Descripción (Español)
+Este proyecto es una **página web responsiva** desarrollada con **HTML5** y **CSS3**, creada para mostrar el patrimonio cultural a través de historias y elementos visuales atractivos.  
 
-Project Sprint 5
+El diseño está enfocado en la **claridad, accesibilidad y adaptabilidad**, combinando buenas prácticas en maquetación y estilo.
 
-Descripción del proyecto:
+### ✨ Características
+- Diseño adaptable a escritorio y dispositivos móviles.  
+- Uso de etiquetas semánticas en HTML.  
+- Estilos organizados en CSS con clases reutilizables.  
+- Maquetación limpia inspirada en principios modernos de UI.  
 
-Project Sprint 5 representa un hito significativo en mi trayectoria como desarrollador web, llevado a cabo bajo la guía de Tripleten.
+### 🎯 Propósito
+Este proyecto fue desarrollado como parte de mi formación como **Desarrolladora Full Stack** en el bootcamp de TripleTen, con el objetivo de fortalecer las bases en **frontend** y construir interfaces funcionales y visualmente atractivas.
 
-El principal objetivo de este proyecto fue aplicar de manera práctica los conocimientos adquiridos sobre la creación de páginas web responsivas, garantizando una apariencia y funcionalidad óptimas en una amplia variedad de dispositivos. Este proyecto me permitió profundizar en el uso avanzado de las propiedades de CSS, la metodología BEM y HTML.
+### 🛠️ Tecnologías
+- **HTML5**  
+- **CSS3**  
+- **Git/GitHub**  
 
-Entre las herramientas y técnicas nuevas que implementé se encuentra Figma, utilizada como guía y herramienta principal en el proceso de diseño y construcción del proyecto. Además, amplié mis conocimientos y habilidades en el uso de GitHub y Gitbash, herramientas esenciales para la gestión de versiones y la colaboración en proyectos de desarrollo.
+### 🚀 Demo
+🔗 [Ver Proyecto en Vivo](https://lina079.github.io/web_project_homeland/)  
 
-Un aspecto importante de este sprint fue el aprendizaje y comprensión de las unidades relativas como em y rem. Aunque estas no se implementaron explícitamente en este proyecto, su estudio ha sido fundamental en mi crecimiento profesional y técnico.
+---
 
-Resumen de habilidades adquiridas y demostradas:
-• Medias Queries y Responsividad: Implementación de técnicas avanzadas para asegurar la adaptabilidad y responsividad de las páginas web, siempre enfocadas en proporcionar la mejor experiencia de usuario posible.
-• Herramientas de Diseño: Uso eficiente de Figma para el diseño y desarrollo de proyectos web, permitiendo una transición fluida del concepto a la implementación.
-• Gestión de Versiones con GitHub: Profundización en el uso de GitHub, consolidando mis habilidades en una de las plataformas más esenciales y utilizadas por desarrolladores a nivel mundial.
+## 🌐 English Version
 
-Conclusión:
+### 📖 Description
+**Cultural Stories – Historias Culturales** is a **responsive web page** built with **HTML5** and **CSS3**, designed to highlight cultural heritage through storytelling and engaging visual elements.  
 
-Project Sprint 5 no solo es un testimonio de mis habilidades técnicas y conocimientos adquiridos, sino también de mi capacidad para aprender y adaptarme a nuevas herramientas y metodologías. Este proyecto refleja mi compromiso continuo con la excelencia en el desarrollo web y mi dedicación a proporcionar soluciones de alta calidad que satisfagan las necesidades y expectativas de los usuarios.
+The design focuses on **clarity, accessibility, and adaptability**, following best practices in layout and styling.
 
-Sitio web del proyecto:
+### ✨ Features
+- Responsive design for desktop and mobile devices.  
+- Semantic HTML structure for better accessibility.  
+- Organized CSS with reusable classes.  
+- Clean layout inspired by modern UI principles.  
 
-A través del siguiente enlace podrás acceder al proyecto: https://lina079.github.io/web_project_homeland/
+### 🎯 Purpose
+This project was developed as part of my training as a **Full Stack Developer** at TripleTen, with the goal of strengthening **frontend foundations** and building functional, visually appealing interfaces.
+
+### 🛠️ Technologies
+- **HTML5**  
+- **CSS3**  
+- **Git/GitHub**  
+
+### 🚀 Live Demo
+🔗 [View Live Project](https://lina079.github.io/web_project_homeland/)  
+
+---
+
+## 👩‍💻 Autora | Author
+Desarrollado por | Developed by **Lina Castro**  
+Aspirante a Desarrolladora Full Stack | Aspiring Full Stack Developer  
+
+Con experiencia previa en gestión y servicio al cliente, ahora enfocada en crear soluciones digitales que combinen funcionalidad, diseño y eficiencia.  
+With previous experience in management and customer service, now focused on building digital solutions that combine functionality, design, and efficiency.  
